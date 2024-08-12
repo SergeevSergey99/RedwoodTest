@@ -6,40 +6,38 @@ using UnityEngine;
 
 public class PlayerData : MonoSingleton<PlayerData>
 {
-    [field: SerializeField] public int MaxHealth { get; private set; } = 100;
-    [field: SerializeField] public int StartBullets { get; private set; } = 5;
-    
-    private int _health;
-    private int _bullets;
-    
-    #region events
-    public static event Action<int> OnHealthChanged;
-    public static event Action<int> OnBulletsChanged;
-    #endregion
+    [SerializeField]
+    private int _bulletCount = 10;
 
-    public int Health
+    private int _startBulletCount;
+    public int BulletCount
     {
-        get => _health;
+        get => _bulletCount; 
         set
         {
-            _health = value; 
-            OnHealthChanged?.Invoke(_health);
-        }
-    }
-    public int Bullets
-    {
-        get => _bullets;
-        set
-        {
-            _bullets = value; 
-            OnBulletsChanged?.Invoke(_bullets);
+            _bulletCount = value;
+            OnBulletCountChanged?.Invoke(_bulletCount);
+            
+            if (_bulletCount <= 0)
+                OnPlayerDie?.Invoke();
         }
     }
 
     protected override void Init()
     {
         base.Init();
-        Health = MaxHealth;
-        Bullets = StartBullets;
+        _startBulletCount = _bulletCount;
     }
+    
+    public void Reset()
+    {
+        BulletCount = _startBulletCount;
+    }
+
+    #region events
+    
+    public static Action<int> OnBulletCountChanged;
+    public static Action OnPlayerDie;
+
+    #endregion
 }

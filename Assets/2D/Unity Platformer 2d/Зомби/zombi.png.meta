@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: zombi_0
+      name: zombi1_0
       rect:
         serializedVersion: 2
         x: 2
@@ -131,7 +131,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_1
+      name: zombi1_2
       rect:
         serializedVersion: 2
         x: 142
@@ -152,7 +152,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_2
+      name: zombi1_3
       rect:
         serializedVersion: 2
         x: 216
@@ -173,7 +173,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_3
+      name: zombi1_4
       rect:
         serializedVersion: 2
         x: 285
@@ -194,7 +194,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_4
+      name: zombi1_5
       rect:
         serializedVersion: 2
         x: 370
@@ -215,10 +215,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_5
+      name: zombi1_6
       rect:
         serializedVersion: 2
-        x: 444
+        x: 443
         y: 547
         width: 68
         height: 124
@@ -236,7 +236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_6
+      name: zombi1_7
       rect:
         serializedVersion: 2
         x: 514
@@ -257,7 +257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_7
+      name: zombi1_8
       rect:
         serializedVersion: 2
         x: 586
@@ -278,13 +278,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_8
+      name: zombi2_8
       rect:
         serializedVersion: 2
         x: 594
         y: 420
         width: 73
-        height: 128
+        height: 127
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -299,7 +299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_9
+      name: zombi1_9
       rect:
         serializedVersion: 2
         x: 663
@@ -320,10 +320,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_10
+      name: zombi1_10
       rect:
         serializedVersion: 2
-        x: 736
+        x: 734
         y: 547
         width: 74
         height: 125
@@ -341,7 +341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_11
+      name: zombi1_11
       rect:
         serializedVersion: 2
         x: 814
@@ -362,7 +362,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_12
+      name: zombi1_12
       rect:
         serializedVersion: 2
         x: 886
@@ -383,7 +383,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_13
+      name: zombi1_13
       rect:
         serializedVersion: 2
         x: 964
@@ -404,7 +404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_14
+      name: zombi2_0
       rect:
         serializedVersion: 2
         x: 10
@@ -425,7 +425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_15
+      name: zombi2_1
       rect:
         serializedVersion: 2
         x: 81
@@ -446,7 +446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_16
+      name: zombi2_2
       rect:
         serializedVersion: 2
         x: 150
@@ -467,7 +467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_17
+      name: zombi2_3
       rect:
         serializedVersion: 2
         x: 221
@@ -488,7 +488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_18
+      name: zombi2_4
       rect:
         serializedVersion: 2
         x: 290
@@ -509,7 +509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_19
+      name: zombi2_5
       rect:
         serializedVersion: 2
         x: 371
@@ -530,7 +530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_20
+      name: zombi2_6
       rect:
         serializedVersion: 2
         x: 443
@@ -551,7 +551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_21
+      name: zombi2_7
       rect:
         serializedVersion: 2
         x: 522
@@ -572,7 +572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_22
+      name: zombi2_9
       rect:
         serializedVersion: 2
         x: 671
@@ -593,7 +593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_23
+      name: zombi2_10
       rect:
         serializedVersion: 2
         x: 741
@@ -614,11 +614,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_24
+      name: zombi2_11
       rect:
         serializedVersion: 2
         x: 815
-        y: 420
+        y: 421
         width: 69
         height: 124
       alignment: 7
@@ -635,7 +635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_25
+      name: zombi2_12
       rect:
         serializedVersion: 2
         x: 884
@@ -656,11 +656,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_26
+      name: zombi2_13
       rect:
         serializedVersion: 2
         x: 966
-        y: 420
+        y: 421
         width: 68
         height: 124
       alignment: 7
@@ -677,7 +677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_27
+      name: zombi2_14
       rect:
         serializedVersion: 2
         x: 1037
@@ -698,7 +698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_28
+      name: zombi2_15
       rect:
         serializedVersion: 2
         x: 1106
@@ -719,7 +719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_29
+      name: zombi3_0
       rect:
         serializedVersion: 2
         x: 15
@@ -740,7 +740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_30
+      name: zombi3_1
       rect:
         serializedVersion: 2
         x: 85
@@ -761,7 +761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_31
+      name: zombi3_2
       rect:
         serializedVersion: 2
         x: 155
@@ -782,7 +782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_32
+      name: zombi3_3
       rect:
         serializedVersion: 2
         x: 228
@@ -803,7 +803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_33
+      name: zombi3_4
       rect:
         serializedVersion: 2
         x: 297
@@ -824,7 +824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_34
+      name: zombi3_5
       rect:
         serializedVersion: 2
         x: 378
@@ -845,7 +845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_35
+      name: zombi3_6
       rect:
         serializedVersion: 2
         x: 450
@@ -866,7 +866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_36
+      name: zombi3_7
       rect:
         serializedVersion: 2
         x: 528
@@ -887,11 +887,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_37
+      name: zombi3_8
       rect:
         serializedVersion: 2
         x: 588
-        y: 279
+        y: 280
         width: 62
         height: 107
       alignment: 7
@@ -908,11 +908,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_38
+      name: zombi3_9
       rect:
         serializedVersion: 2
         x: 671
-        y: 279
+        y: 280
         width: 60
         height: 109
       alignment: 7
@@ -929,7 +929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_39
+      name: zombi3_10
       rect:
         serializedVersion: 2
         x: 732
@@ -950,7 +950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_40
+      name: zombi3_11
       rect:
         serializedVersion: 2
         x: 814
@@ -971,7 +971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_41
+      name: zombi3_12
       rect:
         serializedVersion: 2
         x: 881
@@ -992,7 +992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_42
+      name: zombi3_13
       rect:
         serializedVersion: 2
         x: 963
@@ -1013,12 +1013,12 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_43
+      name: zombi3_14
       rect:
         serializedVersion: 2
         x: 1035
         y: 279
-        width: 134
+        width: 67
         height: 126
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -1034,7 +1034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_44
+      name: zombi4_0
       rect:
         serializedVersion: 2
         x: 9
@@ -1055,7 +1055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_45
+      name: zombi4_1
       rect:
         serializedVersion: 2
         x: 79
@@ -1076,11 +1076,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_46
+      name: zombi4_2
       rect:
         serializedVersion: 2
         x: 145
-        y: 136
+        y: 137
         width: 65
         height: 119
       alignment: 7
@@ -1097,7 +1097,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_47
+      name: zombi4_3
       rect:
         serializedVersion: 2
         x: 216
@@ -1118,7 +1118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_48
+      name: zombi4_4
       rect:
         serializedVersion: 2
         x: 285
@@ -1139,7 +1139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_49
+      name: zombi4_5
       rect:
         serializedVersion: 2
         x: 360
@@ -1160,7 +1160,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_50
+      name: zombi4_6
       rect:
         serializedVersion: 2
         x: 422
@@ -1181,7 +1181,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_51
+      name: zombi4_7
       rect:
         serializedVersion: 2
         x: 486
@@ -1202,7 +1202,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_52
+      name: zombi4_8
       rect:
         serializedVersion: 2
         x: 543
@@ -1223,7 +1223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_53
+      name: zombi4_9
       rect:
         serializedVersion: 2
         x: 612
@@ -1244,11 +1244,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_54
+      name: zombi4_10
       rect:
         serializedVersion: 2
         x: 673
-        y: 136
+        y: 137
         width: 61
         height: 113
       alignment: 7
@@ -1265,7 +1265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_55
+      name: zombi4_11
       rect:
         serializedVersion: 2
         x: 735
@@ -1286,7 +1286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_56
+      name: zombi4_12
       rect:
         serializedVersion: 2
         x: 798
@@ -1307,7 +1307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_57
+      name: zombi4_13
       rect:
         serializedVersion: 2
         x: 865
@@ -1328,11 +1328,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_58
+      name: zombi4_14
       rect:
         serializedVersion: 2
         x: 934
-        y: 136
+        y: 137
         width: 62
         height: 119
       alignment: 7
@@ -1349,7 +1349,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_59
+      name: zombi4_15
       rect:
         serializedVersion: 2
         x: 1007
@@ -1370,7 +1370,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_60
+      name: zombi5_0
       rect:
         serializedVersion: 2
         x: 2
@@ -1391,7 +1391,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_61
+      name: zombi5_1
       rect:
         serializedVersion: 2
         x: 92
@@ -1412,7 +1412,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_62
+      name: zombi5_2
       rect:
         serializedVersion: 2
         x: 182
@@ -1433,7 +1433,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_63
+      name: zombi5_3
       rect:
         serializedVersion: 2
         x: 272
@@ -1454,7 +1454,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_64
+      name: zombi5_4
       rect:
         serializedVersion: 2
         x: 362
@@ -1475,7 +1475,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_65
+      name: zombi5_5
       rect:
         serializedVersion: 2
         x: 458
@@ -1496,7 +1496,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_66
+      name: zombi5_6
       rect:
         serializedVersion: 2
         x: 555
@@ -1517,7 +1517,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_67
+      name: zombi5_7
       rect:
         serializedVersion: 2
         x: 657
@@ -1538,10 +1538,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_68
+      name: zombi5_8
       rect:
         serializedVersion: 2
-        x: 748
+        x: 747
         y: 8
         width: 90
         height: 106
@@ -1559,7 +1559,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_69
+      name: zombi5_9
       rect:
         serializedVersion: 2
         x: 840
@@ -1580,15 +1580,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_70
+      name: zombi1_14
       rect:
         serializedVersion: 2
-        x: 1034
+        x: 1033
         y: 547
         width: 70
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1601,15 +1601,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_71
+      name: zombi1_15
       rect:
         serializedVersion: 2
         x: 1104
         y: 547
         width: 70
         height: 125
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1622,15 +1622,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: zombi_72
+      name: zombi1_1
       rect:
         serializedVersion: 2
         x: 72
         y: 547
         width: 70
         height: 128
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1638,6 +1638,27 @@ TextureImporter:
       bones: []
       spriteID: 1602a9959f2b0db41af14ead3aed8ab7
       internalID: 1609161154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zombi3_15
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 279
+        width: 67
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898f64714e7b6942b11ce8fff9e68fe
+      internalID: -1319047947
       vertices: []
       indices: 
       edges: []
@@ -1653,80 +1674,80 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      zombi_0: 1130315351
-      zombi_1: 403125200
-      zombi_10: -1714413505
-      zombi_11: -1501508584
-      zombi_12: 391413200
-      zombi_13: -1045708956
-      zombi_14: 1283789005
-      zombi_15: 1283455911
-      zombi_16: -1134413461
-      zombi_17: 1197153940
-      zombi_18: -1787535155
-      zombi_19: -1165703636
-      zombi_2: 1115660033
-      zombi_20: 1270386760
-      zombi_21: -784455188
-      zombi_22: 95946327
-      zombi_23: -1585509257
-      zombi_24: -1339077692
-      zombi_25: 1553062943
-      zombi_26: -722933724
-      zombi_27: 2034778678
-      zombi_28: -252231616
-      zombi_29: 916098308
-      zombi_3: -453234420
-      zombi_30: -500846344
-      zombi_31: 1883345316
-      zombi_32: 1860701938
-      zombi_33: 661481829
-      zombi_34: -1472681703
-      zombi_35: 653853077
-      zombi_36: -1709219101
-      zombi_37: 991297146
-      zombi_38: -2127959990
-      zombi_39: 1793737652
-      zombi_4: -1328749049
-      zombi_40: 139785757
-      zombi_41: -944012220
-      zombi_42: 125492000
-      zombi_43: 680872858
-      zombi_44: -867604901
-      zombi_45: -1515408501
-      zombi_46: -1850566605
-      zombi_47: -45423682
-      zombi_48: -265921136
-      zombi_49: 617341109
-      zombi_5: 2266130
-      zombi_50: -73259882
-      zombi_51: -1258799487
-      zombi_52: 2085442287
-      zombi_53: -46311248
-      zombi_54: 1315046930
-      zombi_55: 602124646
-      zombi_56: -1084522559
-      zombi_57: 1776146677
-      zombi_58: 1559101498
-      zombi_59: 1591303457
-      zombi_6: -1484838593
-      zombi_60: -1371603787
-      zombi_61: 2075603873
-      zombi_62: 1285540924
-      zombi_63: -181273211
-      zombi_64: -77828471
-      zombi_65: 435842054
-      zombi_66: -2079546964
-      zombi_67: 1540545740
-      zombi_68: 89693851
-      zombi_69: 395632469
-      zombi_7: -213841254
-      zombi_70: -1885285383
-      zombi_71: -1926663693
-      zombi_72: 1609161154
-      zombi_73: -1319047947
-      zombi_8: 945887322
-      zombi_9: 448913543
+      zombi1_0: 1130315351
+      zombi1_1: 1609161154
+      zombi1_10: -1714413505
+      zombi1_11: -1501508584
+      zombi1_12: 391413200
+      zombi1_13: -1045708956
+      zombi1_14: -1885285383
+      zombi1_15: -1926663693
+      zombi1_2: 403125200
+      zombi1_3: 1115660033
+      zombi1_4: -453234420
+      zombi1_5: -1328749049
+      zombi1_6: 2266130
+      zombi1_7: -1484838593
+      zombi1_8: -213841254
+      zombi1_9: 448913543
+      zombi2_0: 1283789005
+      zombi2_1: 1283455911
+      zombi2_10: -1585509257
+      zombi2_11: -1339077692
+      zombi2_12: 1553062943
+      zombi2_13: -722933724
+      zombi2_14: 2034778678
+      zombi2_15: -252231616
+      zombi2_2: -1134413461
+      zombi2_3: 1197153940
+      zombi2_4: -1787535155
+      zombi2_5: -1165703636
+      zombi2_6: 1270386760
+      zombi2_7: -784455188
+      zombi2_8: 945887322
+      zombi2_9: 95946327
+      zombi3_0: 916098308
+      zombi3_1: -500846344
+      zombi3_10: 1793737652
+      zombi3_11: 139785757
+      zombi3_12: -944012220
+      zombi3_13: 125492000
+      zombi3_14: 680872858
+      zombi3_15: -1319047947
+      zombi3_2: 1883345316
+      zombi3_3: 1860701938
+      zombi3_4: 661481829
+      zombi3_5: -1472681703
+      zombi3_6: 653853077
+      zombi3_7: -1709219101
+      zombi3_8: 991297146
+      zombi3_9: -2127959990
+      zombi4_0: -867604901
+      zombi4_1: -1515408501
+      zombi4_10: 1315046930
+      zombi4_11: 602124646
+      zombi4_12: -1084522559
+      zombi4_13: 1776146677
+      zombi4_14: 1559101498
+      zombi4_15: 1591303457
+      zombi4_2: -1850566605
+      zombi4_3: -45423682
+      zombi4_4: -265921136
+      zombi4_5: 617341109
+      zombi4_6: -73259882
+      zombi4_7: -1258799487
+      zombi4_8: 2085442287
+      zombi4_9: -46311248
+      zombi5_0: -1371603787
+      zombi5_1: 2075603873
+      zombi5_2: 1285540924
+      zombi5_3: -181273211
+      zombi5_4: -77828471
+      zombi5_5: 435842054
+      zombi5_6: -2079546964
+      zombi5_7: 1540545740
+      zombi5_8: 89693851
+      zombi5_9: 395632469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
