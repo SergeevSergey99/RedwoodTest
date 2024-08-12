@@ -40,6 +40,7 @@ public class GameManager : MonoBehaviour
     public void RestartGame()
     {
         EnemiesPool.ReturnAllObjects();
+        BulletPool.ReturnAllObjects();
         _gameOverPanel.SetActive(false);
         _playerController.ResetPlayer(_playerStartPosition);
         _enemySpawner.ReStart();
