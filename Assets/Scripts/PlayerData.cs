@@ -6,14 +6,26 @@ using UnityEngine;
 
 public class PlayerData : MonoSingleton<PlayerData>
 {
+    [field: SerializeField] public int MaxHealth { get; private set; } = 100;
     [field: SerializeField] public int StartBullets { get; private set; } = 5;
     
+    private int _health;
     private int _bullets;
     
     #region events
+    public static event Action<int> OnHealthChanged;
     public static event Action<int> OnBulletsChanged;
-    public static event Action OnGameOver;
     #endregion
+
+    public int Health
+    {
+        get => _health;
+        set
+        {
+            _health = value; 
+            OnHealthChanged?.Invoke(_health);
+        }
+    }
     public int Bullets
     {
         get => _bullets;
@@ -21,15 +33,13 @@ public class PlayerData : MonoSingleton<PlayerData>
         {
             _bullets = value; 
             OnBulletsChanged?.Invoke(_bullets);
-            
-            if (_bullets == 0)
-                OnGameOver?.Invoke();
         }
     }
 
     protected override void Init()
     {
         base.Init();
+        Health = MaxHealth;
         Bullets = StartBullets;
     }
 }
