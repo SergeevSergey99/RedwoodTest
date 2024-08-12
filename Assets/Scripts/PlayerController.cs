@@ -1,6 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : BaseCharacterController
@@ -57,7 +54,7 @@ public class PlayerController : BaseCharacterController
         else if (other.TryGetComponent<BulletHolder>(out var bullet))
         {
             PlayerData.Instance.BulletCount += bullet.BulletCount;
-            Destroy(bullet.gameObject);
+            BulletPool.ReturnObject(bullet);
         }
     }
 
