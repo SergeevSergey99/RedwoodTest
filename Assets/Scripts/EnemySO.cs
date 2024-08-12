@@ -1,5 +1,4 @@
-﻿using UnityEditor.Animations;
-using UnityEngine;
+﻿using UnityEngine;
 
 [CreateAssetMenu(fileName = "EnemySO", menuName = "ScriptableObjects/EnemySO", order = 0)]
 public class EnemySO : ScriptableObject
@@ -10,5 +9,5 @@ public class EnemySO : ScriptableObject
     public float Speed { get; private set; } = 1;
     
     [field: SerializeField]
-    public AnimatorController AnimatorController { get; private set; }
+    public RuntimeAnimatorController AnimatorController { get; private set; }
 }
